@@ -1,5 +1,5 @@
 /*
- *  Find factorial of number
+ *  Reversing an array
  *  Author:Real Time Group
  *  All Rights Reserved
  */
